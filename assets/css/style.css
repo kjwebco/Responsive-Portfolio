@@ -256,7 +256,7 @@ main {
 .main-section {
   float: left;
   width: 100%;
-  max-width: 650px;
+  max-width: 655px;
 
   /* Box-model */
   padding: 30px;
