@@ -41,7 +41,7 @@ body {
 .container {
   /* Box-model */
   width: 100%;
-  max-width: 960px;
+  max-width: 975px;
 
   /* Positioning */
   margin: 0 auto;
